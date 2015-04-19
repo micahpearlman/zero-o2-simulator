@@ -1,3 +1,5 @@
+// http://cho-yaba.punyu.jp/?p=1663
+
 #define MULT 200000 // multiplier for tuning word / step for noise (range of freq.)
 #define MMIN 2000000 // minimal value of tuning word
 byte waveform=0; // waveform
