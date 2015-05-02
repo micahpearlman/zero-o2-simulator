@@ -5,6 +5,9 @@ An O2 or lambda simulator is used to send a simulated oxygen/lambda sensor signa
 This uses an ATTiny85 as the signal generator (using DDS, see: http://cho-yaba.punyu.jp/?p=1663).  Where most O2 simulators in the past used a 555 timer the ATTiny85 gives the advantage of being fully programmable.
 
 ![Alt text](./doc/schematic.png?raw=true "Schematic")
+![Alt text](./doc/board.png?raw=true "board")
+![Alt text](./doc/signal.png?raw=true "Signal")
+![Alt text](./doc/finished-board.jpg?raw=true "Finished")
 
 ## Status
 
